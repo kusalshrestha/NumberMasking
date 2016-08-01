@@ -1,6 +1,6 @@
 # NumberMasking
 NumberMasking
-Number to be masked in example = (***) ***-****
+Number to be masked in example = (***) ***-**** <br>
 Output = (123) 456-7890
 
 ## Use Case:
